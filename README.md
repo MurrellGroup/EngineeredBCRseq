@@ -1,2 +1,2 @@
 # EngineeredBCRseq
-Repo for code and data associated with BCR processing.
+Repo for Jupyter notebooks containing code for processing PacBio UMI sequencing of engineered B-cell receptors.
